@@ -1,0 +1,15 @@
+transaction_id,date,amount,category,merchant_name,pending
+8BznWRkjl3HlMVq3oaLVhvo1BR875liWJ6lRp,2025-05-19,25.0,Other,,False
+MWkaEZ5NpAfpZJmloxzJhaWnr64PeDHLRvM5V,2025-05-19,5.4,Other,Uber,False
+93BbGwAMqxuqG8LQ9pe8HkKG6Warowi491W3G,2025-05-18,5850.0,Other,,False
+W6r1K45ymdSdbzN9q38zi1qoZpPxzDf6Q8m5z,2025-05-18,1000.0,Other,,False
+A7jDq9RkaeHamw9RX85wUypjm1Xob4C9xDXkQ,2025-05-17,78.5,Other,,False
+LE8dgb5NLWSLwgeQ4vXgUdov5DewW9fkWMrma,2025-05-16,12.0,Other,McDonald's,False
+poGraX3R1zcR4Jjp6NgJI5w7WQqPo9UpQG1qz,2025-05-16,4.33,Other,Starbucks,False
+opAKxLBmMrhb45eXDM95TNQDE4PRGJioVDlPV,2025-05-15,89.4,Other,FUN,False
+GL1rjk5xephe86qBbjz6TrpedNGEWVi67veL4,2025-05-04,500.0,Other,United Airlines,False
+gj1RvJ5a48hwdqZxrgyqTmXrpl3a8EHE7BmGN,2025-05-02,6.33,Other,Uber,False
+nLWqBJzQZKhbQ1ZmRVX1TpnRwaX5WBtAMRyXy,2025-04-29,500.0,Other,,False
+ymBPAbeWGjcpD6dk1M76hKLg1yJ4XQt48mqZa,2025-04-28,2078.5,Other,,False
+m1Elr9kXQqcb4L89A3ZLTWPAedlry5hgQNvlE,2025-04-28,500.0,Other,KFC,False
+bd7b8jJzB1S1ropvj6ZoTzwjpqoaGDim6j4J5,2025-04-28,500.0,Other,,False
