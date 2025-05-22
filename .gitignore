@@ -1,0 +1,44 @@
+Python
+pycache/
+*.py[cod]
+*$py.class
+*.egg-info/
+.installed.cfg
+*.egg
+instance/
+*.log
+
+Virtual Environment
+venv/
+.venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+Secrets & Configuration (CRITICAL)
+config.py
+*.ini
+*.yaml
+.env
+
+Databases
+*.db
+*.sqlite
+*.sqlite3
+
+Data files (optional)
+*.csv
+raw_transactions.csv
+transactions.csv
+spending_summary.csv
+Output files (plots, reports)
+*.png
+*.jpg
+*.pdf
+
+IDE & System specific
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
